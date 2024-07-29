@@ -2,7 +2,7 @@ const scenarios = [
     {
         headline: "New Miracle Diet Causes Rapid Weight Loss in Just One Week!",
         content: "A new diet sweeping the nation promises rapid weight loss with minimal effort. According to experts, participants can lose up to 10 pounds in just one week by following this simple regimen.",
-        source: "example-fake-news-site.com", // Fictional Source
+        source: "bodynews.com", // Fictional Source
         date: "March 15, 2024",
         isFake: true,
         feedback: "This article is an example of misleading information. The headline uses sensational language to attract attention. The source, 'example-fake-news-site.com,' is not a recognized or reputable health website. Claims of rapid weight loss without effort are typically unrealistic and unverified by credible health experts."
@@ -18,7 +18,7 @@ const scenarios = [
     {
         headline: "Celebrity Endorses Miracle Hair Growth Product",
         content: "A famous actor has been promoting a new hair growth product that claims to regrow hair in just a few weeks.",
-        source: "example-fake-celeb-news.com", // Fictional Source
+        source: "CelebsRUs.com", // Fictional Source
         date: "April 5, 2023",
         isFake: true,
         feedback: "This article is likely misleading. Celebrity endorsements do not guarantee the effectiveness of a product. The source 'example-fake-celeb-news.com' is not known for credible or scientifically-backed information."
