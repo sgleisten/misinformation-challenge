@@ -2,7 +2,7 @@ const scenarios = [
     {
         headline: "New Miracle Diet Causes Rapid Weight Loss in Just One Week!",
         content: "A new diet sweeping the nation promises rapid weight loss with minimal effort. According to experts, participants can lose up to 10 pounds in just one week by following this simple regimen.",
-        source: "bodynews.com", // Fictional Source
+        source: "bodynewss.com", // Fictional Source
         date: "March 15, 2024",
         isFake: true,
         feedback: "This article is an example of misleading information. The headline uses sensational language to attract attention. The source, 'example-fake-news-site.com,' is not a recognized or reputable health website. Claims of rapid weight loss without effort are typically unrealistic and unverified by credible health experts."
